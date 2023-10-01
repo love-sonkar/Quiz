@@ -22,7 +22,7 @@
   main {
     padding: 2rem;
     border: 0.1rem solid gray;
-    width: 45em;
+    max-width: 45em; /* changed width to max-width for responsive */
     margin: 5rem auto;
     border-radius: 2rem;
     box-shadow: 0.1rem 0.2rem 0.2rem gray;

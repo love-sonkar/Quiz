@@ -1,4 +1,4 @@
-### Name:[Veer Prakash](https://github.com/veerprakash28)
--Place : Faridabad, Haryana, India
--Bio: Software Engineer | MERN Stack
--Github:[veerprakash28](https://github.com/veerprakash28)
+### Name:[Love Sonkar](https://github.com/love-sonkar)
+-Place : Kurud, Dhamtari [C.G], India
+-Bio: Frontend-WebDevloper | MERN Stack
+-Github:[love-sonkar](https://github.com/love-sonkar)
